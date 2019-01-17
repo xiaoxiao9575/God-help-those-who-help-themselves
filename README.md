@@ -20,6 +20,7 @@ some interesting demos
 
 4.图片
 ![这个括号里写的在图片加载失败时显示](图片网址)
+
 ![百度](https://www.baidu.com/img/baidu_jgylogo3.gif)
 
 <img src="https://www.baidu.com/img/baidu_jgylogo3.gif" width="250" height="250" alt="图片加载失败时，显示这段字"/>

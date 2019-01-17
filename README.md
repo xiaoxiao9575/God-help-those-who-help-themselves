@@ -2,6 +2,7 @@
 some interesting demos
 
 1.标题
+
 # 一级标题
 ## 二级标题
 ### 三级标题
@@ -10,7 +11,8 @@ some interesting demos
 ###### 六级标题
 
 2.粗体斜体
-**粗体**
+
+**粗体*
 *斜体*
 ***加粗斜体***
 
@@ -26,7 +28,8 @@ some interesting demos
 
 <img src="https://www.baidu.com/img/baidu_jgylogo3.gif" width="250" height="250" alt="图片加载失败时，显示这段字"/>
 
-7.列表
+5.列表
+
 - 项目
   - 项目
     - 项目
@@ -38,7 +41,8 @@ some interesting demos
 - [ ] 计划任务
 - [x] 完成任务
  
-11.缩紧
+6.缩紧
+
 >缩进一
 >>缩进二
 >>>缩进三

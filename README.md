@@ -19,16 +19,17 @@ some interesting demos
 [baidu](https://www.baidu.com)
 
 4.图片
+
 ![这个括号里写的在图片加载失败时显示](图片网址)
 
 ![百度](https://www.baidu.com/img/baidu_jgylogo3.gif)
 
 <img src="https://www.baidu.com/img/baidu_jgylogo3.gif" width="250" height="250" alt="图片加载失败时，显示这段字"/>
 
-![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center =30x30)
-
 5.代码块
 ···
+这是一段代码
+这是一段代码
 这是一段代码
 ···
 
